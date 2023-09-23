@@ -5,6 +5,8 @@ Since our sales team handles various products and clients, it would be helpful t
 Please share your thoughts on this! 
 Best regards!
 
+Data Link - https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms
+
 Requirements
 Value of Change: Visual dashboards and improved sales reporting
 Tools Required: Power BI, SQL Server Management Studio
@@ -13,4 +15,6 @@ No.	Stakeholder	Request/Demand	Acceptance Criteria
 2	Sales Representative	A detailed overview of internet sales per customers	A power BI dashboard that allows to filter data of each customer
 3	Sales Representative	A detailed overview of internet sales per products	A power BI dashboard that allows to filter data of each product
 4	Sales Manager	Dashboard with KPIs and graphs	A Power BI dashboard with KPIs and graph comparing against each other
+
+
 
